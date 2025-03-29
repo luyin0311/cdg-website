@@ -1,11 +1,11 @@
-import Hero from '../components/Hero'
-import WorksShowcase from '../components/WorksShowcase'
-import ArtDisplay from '../components/ArtDisplay'
-import CraftDisplay from '../components/CraftDisplay'
-import Achievements from '../components/Achievements'
-import ExploreCategories from '../components/ExploreCategories'
-import Footer from '../components/Footer'
-import Header from '../components/Header'
+// import Hero from '../components/Hero'
+// import WorksShowcase from '../components/WorksShowcase'
+// import ArtDisplay from '../components/ArtDisplay'
+// import CraftDisplay from '../components/CraftDisplay'
+// import Achievements from '../components/Achievements'
+// import ExploreCategories from '../components/ExploreCategories'
+// import Footer from '../components/Footer'
+// import Header from '../components/Header'
 
 export default function HomePage() {
   return (
