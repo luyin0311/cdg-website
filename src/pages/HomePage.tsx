@@ -10,7 +10,7 @@ import Header from '../components/Header'
 export default function HomePage() {
   return (
     <>
-      <div className="bg-gradient-to-b from-gray-50 to-white">
+      {/* <div className="bg-gradient-to-b from-gray-50 to-white">
         <Header />
         <Hero />
       </div>
@@ -19,7 +19,14 @@ export default function HomePage() {
       <CraftDisplay />
       <Achievements />
       <ExploreCategories />
-      <Footer />
+      <Footer /> */}
+      <div>
+        <img src="/images/img-1.png" alt="Hero Image" className="w-full rounded-lg shadow-xl" />
+        <img src="/images/img-2.png" alt="Hero Image" className="w-full rounded-lg shadow-xl" />
+        <img src="/images/img-3.png" alt="Hero Image" className="w-full rounded-lg shadow-xl" />
+        <img src="/images/img-4.png" alt="Hero Image" className="w-full rounded-lg shadow-xl" />
+        <img src="/images/img-5.png" alt="Hero Image" className="w-full rounded-lg shadow-xl" />
+      </div>
     </>
   )
 }
